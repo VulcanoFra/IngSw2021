@@ -1,6 +1,5 @@
 package it.unical.demacs.IngSwGIT_15_10_2021;
 
-import org.apache.commons.lang3.StringUtils;
 import org.joda.time.DateTime;
 
 /**
@@ -13,7 +12,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         DateTime joda = new DateTime();
-        System.out.println(joda.toString());
-        System.out.println(StringUtils.upperCase("ciaone"));
+        //System.out.println(joda.toString());
+        //System.out.println(StringUtils.upperCase("ciaone"));
     }
 }
