@@ -12,7 +12,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         DateTime joda = new DateTime();
-        //System.out.println(joda.toString());
+        System.out.println(joda.toString());
         //System.out.println(StringUtils.upperCase("ciaone"));
     }
 }
